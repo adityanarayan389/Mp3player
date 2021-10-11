@@ -53,6 +53,7 @@ public class MainActivity extends AppCompatActivity {
                            intent.putExtra("position",i);
                            startActivity(intent);
                            String num;
+                           String bibek;
 
                           }
                       });

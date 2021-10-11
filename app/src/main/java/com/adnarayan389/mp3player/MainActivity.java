@@ -52,6 +52,7 @@ public class MainActivity extends AppCompatActivity {
                            intent.putExtra("currentSong",currentSong);
                            intent.putExtra("position",i);
                            startActivity(intent);
+                           String num;
 
                           }
                       });

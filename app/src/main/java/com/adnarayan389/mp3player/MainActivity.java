@@ -55,6 +55,7 @@ public class MainActivity extends AppCompatActivity {
                            String num;
                            String bibek;
                            String santosh;
+                           String sobha;
 
                           }
                       });
